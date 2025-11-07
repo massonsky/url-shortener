@@ -279,22 +279,6 @@ redis-cli ping
 - **Перенаправление (из кэша)**: ~1ms
 - **Перенаправление (из БД)**: ~5-10ms
 
-## 🤝 Участие в разработке
-
-1. Fork репозиторий
-2. Создайте ветку для фичи (`git checkout -b feature/amazing-feature`)
-3. Commit изменений (`git commit -m 'Add amazing feature'`)
-4. Push в ветку (`git push origin feature/amazing-feature`)
-5. Откройте Pull Request
-
 ## 📄 Лицензия
 
 MIT License — см. файл [LICENSE](LICENSE)
-
-## 👤 Автор
-
-[Your Name] — [your-email@example.com](mailto:your-email@example.com)
-
----
-
-**Есть вопросы?** Откройте Issue в репозитории! 🚀
