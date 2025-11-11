@@ -25,7 +25,7 @@
 ### 1️⃣ Клонирование репозитория
 
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/massonsky/url-shortener)
 cd url-shortener
 ```
 
